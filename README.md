@@ -36,14 +36,21 @@ I enjoy transforming raw and complex datasets into **meaningful insights, intera
 
 | 📌 Project | 🛠️ Tools |
 |---|---|
-| 🛒 **Amazon India Sales Dashboard** | Excel, Power Query, Pivot Tables |
-| 🌦️ **Weather Forecasting Analysis** | Python, Pandas, Scikit-Learn, Random Forest |
-| 🏦 **Bank Loan Case Study** | Excel, Data Analysis |
-| 🏥 **Hospital Data Analysis** | SQL, Excel, Power BI |
-| 👥 **HR Employee Attrition Analysis** | Python, Power BI |
-| 🎬 **IMDb Movies Analysis** | SQL, Excel |
-| 📺 **Netflix Recommendation System** | Python, Machine Learning |
-| 📞 **ABC Call Volume Analysis** | Excel, Power BI |
+### 🌦️ [Weather Forecasting Analysis](https://github.com/skm-1718/WEATHER_FORECASTING_ANALYSIS)
+
+### 🏦 [Bank Loan Case Study](https://github.com/skm-1718/BANK-LOAN-CASE-STUDY)
+
+### 🏥 [Hospital Data Analysis](https://github.com/skm-1718/HOSPITAL-DATA)
+
+### 👥 [HR Employee Attrition Analysis](https://github.com/skm-1718/HR_Employee_Attrition)
+
+🛒 Amazon India Sales Dashboard
+
+🎬 IMDb Movies Analysis
+
+📺 Netflix Recommendation System
+
+📞 ABC Call Volume Analysis
 
 ---
 
@@ -62,19 +69,6 @@ Worked with large clients across the **warehouse and data centre sectors**, with
 
 This experience enables me to combine **financial domain knowledge with data analytics and business intelligence**.
 
----
-
-## 🌱 Currently Learning
-
-- 🗄️ Advanced SQL & PostgreSQL
-- 🐍 Python for Data Analytics
-- 📊 Power BI & DAX
-- 📐 Statistics for Data Science
-- 🤖 Machine Learning
-- 🧠 Generative AI & AI-powered Analytics
-- 📗 Advanced Excel & Power Query
-
----
 
 ## 🐍 GitHub Contribution Snake
 
