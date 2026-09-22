@@ -32,25 +32,321 @@ I enjoy transforming raw and complex datasets into **meaningful insights, intera
 
 ---
 
-## 🚀 Featured Data Analytics Projects
+---
 
-| 📌 Project | 🛠️ Tools |
-|---|---|
+<div align="center">
+
+## 🔥 Recent Projects
+
+### Latest Analytics, Machine Learning & Business Intelligence Work
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 [TATA Data Analytics – GenAI Powered Job Simulation](https://github.com/skm-1718/TATA_DATA_ANALYTICS_GEN-AI_POWERED_JOB_SIMULATION_ON_FORAGE)
+
+AI-driven customer delinquency prediction and collections strategy using EDA, risk profiling, predictive analytics, business storytelling and responsible AI.
+
+**🛠️ Python • EDA • Machine Learning • GenAI • Business Analytics**
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✍️ [Handwritten Digit Recognizer – CNN](https://github.com/skm-1718/HANDWRITTEN_DIGIT_RECOGNIZER_CNN)
+
+Built a CNN-based handwritten digit recognition model with image preprocessing, model training, validation, classification metrics and prediction.
+
+**🛠️ Python • PyTorch • CNN • Deep Learning**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🌦️ [Weather Forecasting Analysis](https://github.com/skm-1718/WEATHER_FORECASTING_ANALYSIS)
+
+Weather data analysis and temperature prediction using exploratory analysis and Random Forest regression.
+
+**🛠️ Python • Pandas • Scikit-Learn • Random Forest**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 [Sales Forecasting using SARIMA](https://github.com/skm-1718/SALES_FORECASTING_USING_SARIMA-MODEL)
+
+End-to-end retail sales forecasting project analyzing historical monthly sales, trends, seasonality and future demand patterns.
+
+**🛠️ Python • Pandas • SARIMA • Time Series**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 👥 [Customer Churn Prediction Model](https://github.com/skm-1718/CUSTOMER-CHURN-PREDICTION-MODEL)
+
+Customer churn prediction using EDA and Logistic Regression with model evaluation metrics including accuracy, recall and ROC-AUC.
+
+**🛠️ Python • EDA • Logistic Regression • Machine Learning**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛍️ [NexaRetail Orders EDA Analysis](https://github.com/skm-1718/NEXARETAIL-ORDERS-EDA-ANALYSIS-USING-PYTHON)
+
+Performed end-to-end EDA on the NexaRetail Orders dataset to uncover sales trends, customer purchasing behavior, returns, seasonality and demand patterns.
+
+**🛠️ Python • Pandas • NumPy • EDA**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 [Sales Trend Visualization in Python](https://github.com/skm-1718/SALES-TREND-VISUALISATION-IN-PYTHON)
+
+Built an analytical workflow covering sales trends, KPI analysis, exploratory analysis and business insights.
+
+**🛠️ Python • Pandas • NumPy • Matplotlib • EDA**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 [Online Store Analysis – Tableau Dashboard](https://github.com/skm-1718/ONLINE_STORE_ANALYSIS_TABLEAU_DASHBOARD)
+
+Interactive Tableau dashboard delivering insights into revenue trends, customer performance, country-wise demand and business growth.
+
+**🛠️ Tableau • Data Visualization • Business Intelligence**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💳 [Credit Card Fraud Detection using Machine Learning](https://github.com/skm-1718/CREDIT-CARD-FRAUD-DETECTION-USING-MACHINE-LEARNING)
+
+Machine learning project for detecting fraudulent credit card transactions using preprocessing, feature scaling and class-imbalance handling.
+
+**🛠️ Python • Scikit-Learn • Logistic Regression • SMOTE**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧪 [A/B Testing Python Project](https://github.com/skm-1718/AB_TESTING_PYTHON_PROJECT)
+
+End-to-end A/B testing analysis comparing control and test marketing campaigns using EDA, KPI analysis and statistical hypothesis testing.
+
+**🛠️ Python • Statistics • EDA • Hypothesis Testing**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 [Attendance Prediction using Machine Learning](https://github.com/skm-1718/ATTENDANCE_PREDICTION_USING_MACHINE_LEARNING)
+
+Predictive analytics project using student academic and lifestyle features such as study hours, sleep hours, travel time and internet access.
+
+**🛠️ Python • Machine Learning • Jupyter Notebook**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚗 [Automobile Data Analysis](https://github.com/skm-1718/INIB_AUTOMOBILE_DATA_ANALYSIS)
+
+Explored vehicle pricing, engine performance, fuel efficiency, brand-wise trends and feature relationships through EDA and visualization.
+
+**🛠️ Python • Pandas • Matplotlib • EDA**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏏 [IPL Dataset Analysis](https://github.com/skm-1718/INIB_IPL_DATASET_ANALYSIS)
+
+Analyzed IPL data to explore team performance, player statistics, match trends and season-level insights.
+
+**🛠️ Python • Pandas • Matplotlib • Seaborn**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 [NexaRetail Store SQL Analysis](https://github.com/skm-1718/NEXA_RETAIL_STORE_SQL_ANALYSIS)
+
+Used SQL to solve business problems related to revenue, store performance, category efficiency, target achievement and declining products.
+
+**🛠️ SQL • Data Analysis • Business Analytics**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+---
+
+<div align="center">
+
+## 🚀 Featured Portfolio Projects
+
+### Selected Projects Across Data Analytics, Finance, Healthcare & Entertainment
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛒 [Amazon India Sales Dashboard](https://github.com/skm-1718/AMAZON_INDIA_SALES_DASHBOARD)
+
+**📊 Business Intelligence**
+
+Interactive sales dashboard analyzing:
+
+- Sales performance
+- Orders & quantity
+- Product categories
+- Customer trends
+- Returns & cancellations
+
+**🛠️ Excel • Power Query • Pivot Tables**
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🏦 [Bank Loan Case Study](https://github.com/skm-1718/BANK-LOAN-CASE-STUDY)
 
+**💰 Financial Analytics**
+
+Analyzed loan application and customer data to identify loan performance, customer characteristics, risk indicators and business trends.
+
+**🛠️ Excel • Data Analysis • Financial Analytics**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🏥 [Hospital Data Analysis](https://github.com/skm-1718/HOSPITAL-DATA)
+
+**🏥 Healthcare Analytics**
+
+Analyzed healthcare data to identify patterns across patient records, demographics, hospital operations and key performance indicators.
+
+**🛠️ SQL • Excel • Power BI**
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 👥 [HR Employee Attrition Analysis](https://github.com/skm-1718/HR_Employee_Attrition)
 
-🛒 Amazon India Sales Dashboard
+**📉 HR Analytics**
 
-🎬 IMDb Movies Analysis
+Analyzed employee data to understand attrition patterns, employee demographics, department trends and workforce indicators.
 
-📺 Netflix Recommendation System
+**🛠️ Python • Power BI • Data Analysis**
 
-📞 ABC Call Volume Analysis
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎬 [IMDb Movies Analysis](https://github.com/skm-1718/IMDB-MOVIE-ANALYSIS-)
+
+**🎥 Entertainment Analytics**
+
+Explored movie datasets to analyze ratings, genres, revenue, popularity and movie trends.
+
+**🛠️ SQL • Excel • Data Analysis**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📺 [Netflix Movie Recommendation Analysis](https://github.com/skm-1718/NETFLX_MOVIE_RECOMMENDATION-ANALYSIS)
+
+**🤖 Machine Learning**
+
+Developed a recommendation analysis using movie and TV-show metadata to explore content patterns and recommendations.
+
+**🛠️ Python • Pandas • Machine Learning**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📞 [ABC Call Volume Trend Analysis](https://github.com/skm-1718/ABC-CALL-VOLUME-TREND-ANALYSIS)
+
+**📈 Operations Analytics**
+
+Analyzed call-center data to understand call volume, time-based patterns, operational demand and performance trends.
+
+**🛠️ Excel • Power BI • Data Visualization**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏏 IPL Dataset Analysis
+
+**🏏 Sports Analytics**
+
+Analyzed IPL data to explore team performance, player statistics, match trends and season-level insights.
+
+**🛠️ Python • Pandas • Matplotlib • Seaborn**
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
