@@ -1,6 +1,22 @@
+<div align="center">
+
 # 👋 Hi, I'm Sangram Keshari Mohapatra
 
 ### 📊 Data Analyst | SQL | Python | Power BI | Excel | Tableau
+
+**Turning Data into Insights, Insights into Decisions.**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangram-keshari-mohapatra-9104411b5/)
+[![GitHub](https://img.shields.io/badge/GitHub-sk_m--1718-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skm-1718)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohapatrasangram17@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 I’m a passionate **Data Analyst** with a background in **Finance & Analytics** and prior experience in **Wholesale Banking at ICICI Bank**.
 
@@ -14,22 +30,20 @@ I enjoy transforming raw and complex datasets into **meaningful insights, intera
 
 🚀 Exploring **Data Analytics, Business Intelligence, Machine Learning & AI**
 
-📧 **Email:** mohapatrasangram17@gmail.com
-
 ---
 
 ## 🚀 Featured Data Analytics Projects
 
-| Project | Tools |
+| 📌 Project | 🛠️ Tools |
 |---|---|
-| 🛒 Amazon India Sales Dashboard | Excel, Power Query, Pivot Tables |
-| 🌦️ Weather Forecasting Analysis | Python, Pandas, Scikit-Learn, Random Forest |
-| 🏦 Bank Loan Case Study | Excel, Data Analysis |
-| 🏥 Hospital Data Analysis | SQL, Excel, Power BI |
-| 👥 HR Employee Attrition Analysis | Python, Power BI |
-| 🎬 IMDb Movies Analysis | SQL, Excel |
-| 📺 Netflix Recommendation System | Python, Machine Learning |
-| 📞 ABC Call Volume Analysis | Excel, Power BI |
+| 🛒 **Amazon India Sales Dashboard** | Excel, Power Query, Pivot Tables |
+| 🌦️ **Weather Forecasting Analysis** | Python, Pandas, Scikit-Learn, Random Forest |
+| 🏦 **Bank Loan Case Study** | Excel, Data Analysis |
+| 🏥 **Hospital Data Analysis** | SQL, Excel, Power BI |
+| 👥 **HR Employee Attrition Analysis** | Python, Power BI |
+| 🎬 **IMDb Movies Analysis** | SQL, Excel |
+| 📺 **Netflix Recommendation System** | Python, Machine Learning |
+| 📞 **ABC Call Volume Analysis** | Excel, Power BI |
 
 ---
 
@@ -37,44 +51,46 @@ I enjoy transforming raw and complex datasets into **meaningful insights, intera
 
 ### Deputy Manager – ICICI Bank | Wholesale Banking
 
-Worked with large clients across the **warehouse and data centre sectors**, involving:
+Worked with large clients across the **warehouse and data centre sectors**, with responsibilities involving:
 
-- Financial analysis
-- Credit assessment
-- Financial modelling
-- Risk evaluation
-- Business analysis
-- Funding requirement assessment
+- 💰 Financial Analysis
+- 📊 Financial Modelling
+- 🏦 Credit Assessment
+- ⚠️ Risk Evaluation
+- 📈 Business Analysis
+- 💵 Funding Requirement Assessment
 
-This experience helps me combine **financial domain knowledge with data analytics and business intelligence**.
+This experience enables me to combine **financial domain knowledge with data analytics and business intelligence**.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced SQL & PostgreSQL
-- Python for Data Analytics
-- Power BI & DAX
-- Statistics for Data Science
-- Machine Learning
-- Generative AI & AI-powered Analytics
-- Advanced Excel & Power Query
+- 🗄️ Advanced SQL & PostgreSQL
+- 🐍 Python for Data Analytics
+- 📊 Power BI & DAX
+- 📐 Statistics for Data Science
+- 🤖 Machine Learning
+- 🧠 Generative AI & AI-powered Analytics
+- 📗 Advanced Excel & Power Query
 
- ---
+---
 
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="GitHub Contribution Snake" width="800"/>
 
-</div> 
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analytics & Business Intelligence
+
+<div align="center">
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -85,7 +101,11 @@ This experience helps me combine **financial domain knowledge with data analytic
 ![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+</div>
+
 ### 🐍 Python & Data Science
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -95,27 +115,36 @@ This experience helps me combine **financial domain knowledge with data analytic
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
+</div>
+
 ### 🧰 Tools & Platforms
+
+<div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+</div>
+
+---
 
 ## 📈 What I Do
 
+<div align="center">
+
 ```text
-Data Collection
-       ↓
-Data Cleaning & Transformation
-       ↓
-Exploratory Data Analysis
-       ↓
-Statistical Analysis
-       ↓
-Dashboard Development
-       ↓
-Business Insights
-       ↓
-Data-Driven Decisions
+📥 Data Collection
+        ↓
+🧹 Data Cleaning & Transformation
+        ↓
+🔍 Exploratory Data Analysis
+        ↓
+📐 Statistical Analysis
+        ↓
+📊 Dashboard Development
+        ↓
+💡 Business Insights
+        ↓
+🎯 Data-Driven Decisions
