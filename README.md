@@ -102,33 +102,6 @@ This experience helps me combine **financial domain knowledge with data analytic
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=skm-1718&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=skm-1718&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skm-1718&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=skm-1718&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ## 📈 What I Do
 
