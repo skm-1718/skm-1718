@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sangram Keshari Mohapatra
+# 👋 Sangram Keshari Mohapatra
 
 ### 📊 Data Analyst | SQL | Python | Power BI | Excel | Tableau
 
@@ -8,13 +8,33 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangram-keshari-mohapatra-9104411b5/)
-[![GitHub](https://img.shields.io/badge/GitHub-sk_m--1718-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skm-1718)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohapatrasangram17@gmail.com)
+## 🤝 Let's Connect
+
+📧 **Email:** <mohapatrasangram17@gmail.com>
+
+💼 **LinkedIn:** [Sangram Keshari Mohapatra](https://www.linkedin.com/in/sangram-keshari-mohapatra-9104411b5/)
+
+🐙 **GitHub:** [skm-1718](https://github.com/skm-1718)
+
+📸 **Instagram:** [@mohapatra_sangram1176](https://www.instagram.com/mohapatra_sangram1176/)
+
+📘 **Facebook:** [Sangram Mohapatra](https://www.facebook.com/sangram.mohapatra.948)
+
+<br>
+
+### 📊 Data Analytics • Business Intelligence • Machine Learning • AI
+
+⭐ Feel free to explore my repositories and connect with me.
 
 </div>
 
 ---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=skm-1718&label=Profile%20Views&style=flat)
+
+</div>
 
 ## 👨‍💻 About Me
 
